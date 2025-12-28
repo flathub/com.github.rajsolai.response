@@ -21,3 +21,5 @@ modules:
       - type: archive
         url: https://github.com/RajSolai/Response/archive/refs/tags/v1.1.0.tar.gz
         sha256: d69ba19b6423e5e246970419238dc3a26f308cd9beb0a32c39b4bf719df086b2
+      - type: patch
+        path: fix-appdata.patch
